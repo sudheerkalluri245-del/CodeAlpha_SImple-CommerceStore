@@ -280,17 +280,20 @@ http://127.0.0.1:8000
 
 # Screenshots
 
-## Registration Page
-
-![Registration Page](screenshots/register_page.png)
+## Home Page
+![Home](screenshots/Home.png)
 
 ## Login Page
+![Login](screenshots/Login.png)
 
-![Login Page](screenshots/login_page.png)
+## Register Page
+![Register](screenshots/Register.png)
 
-## Product Details Page
+## Cart Page
+![Cart](screenshots/Cart.png)
 
-![Product Details](screenshots/product_details.png)
+## Product Page
+![Product](screenshots/Product.png)
 
 ## Admin Dashboard
 
