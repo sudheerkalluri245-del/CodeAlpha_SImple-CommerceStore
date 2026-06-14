@@ -282,7 +282,7 @@ http://127.0.0.1:8000
 
 ## Registration Page
 
-![Registration Page](screenshots/registration.png)
+![Registration Page](screenshots/register.png)
 
 ## Login Page
 
